@@ -1,7 +1,7 @@
 # labs_java_chatgpt
-I have no idea about how Java works
-But still have labs to do
-Here I am using ChatGPT to finish those lab assignments in Java
+I have no idea about how Java works.  
+But still have labs to do. :)  
+Here I am using ChatGPT to finish those lab assignments in Java.  
 
 # Notes
 ## Install Docker
